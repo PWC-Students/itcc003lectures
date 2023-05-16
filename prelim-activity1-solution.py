@@ -1,0 +1,2 @@
+name = alphabets[13] + alphabets[14].lower() + alphabets[17].lower() + alphabets[14].lower() + " " + alphabets[3] + alphabets[3].lower() + alphabets[8].lower() + alphabets[4].lower() + alphabets[13].lower() + " " + alphabets[25] + alphabets[0].lower() + alphabets[8].lower() + alphabets[3].lower() + alphabets[4].lower()
+print("Hi! I'm", name)

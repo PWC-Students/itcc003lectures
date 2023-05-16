@@ -14,7 +14,7 @@ def guess_number():
         elif guess > secret_number:
             print("Too high! Try again.")
         else:
-            print("Congratulations! You guessed the secret number in" + str(guess_count) + "guesses!")
+            print("Congratulations! You guessed the secret number in " + str(guess_count) + " guesses!")
 
     play_again = input("Do you want to play again? (y/n): ")
     if play_again.lower() == "y":
